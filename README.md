@@ -1,10 +1,4 @@
 
-
-
-- 🔭 Hoje eu estou trabalhando como professora de programação para crianças.
-- 🌱 Eu estou frequentemente aprendendo...
-- 👯 Eu estou procurando ganhar experiência em Full Stack
-
 <div>
   <a href="https://github.com/amandaamabili">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandaamabili&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
